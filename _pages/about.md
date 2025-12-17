@@ -109,10 +109,10 @@ entrepreneurial ecosystem: case study of Alibaba[J].*
 - **2013** Undergraduate Merit Scholarship at Jilin University, Third prize awarded by Jilin University
 
 # 📖 Education
-- *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, Jilin University, China
-- *2021.09 - 2023.06*, Visting Scholar at University of North Carolina at Charlotte Charlotte, USA
-- *2016.09 - 2018.09*, Master, Business Administration, Jilin University, China
-- *2012.09 - 2016.07*, Bachelor, Archival Science, Jilin University, China
+- *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, ![Jilin](images/Jilin.png) Jilin University, China
+- *2021.09 - 2023.06*, Visting Scholar at University of North Carolina at Charlotte Charlotte,![uncc](images/uncc.png) USA
+- *2016.09 - 2018.09*, Master, Business Administration, ![Jilin](images/Jilin.png) Jilin University, China
+- *2012.09 - 2016.07*, Bachelor, Archival Science, ![Jilin](images/Jilin.png) Jilin University, China
 
 
 
