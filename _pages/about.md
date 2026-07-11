@@ -13,7 +13,7 @@ redirect_from:
 # About Me
 Yiru Cai is a Ph.D. student in the [Department of Management and Entrepreneurship](https://harbert.auburn.edu/about/academic-departments/management-and-entrepreneurship.html) at Auburn University’s Harbert College of Business. Her research focuses on entrepreneurship, including entrepreneurial decision-making, opportunities and resources, startup joiners, IPOs, and entrepreneurial ecosystems.
 
-Before joining Auburn University, she earned a Ph.D. in Business Administration from [Jilin University](https://jilinuniversity.cn/about/), where she worked with Dr. Li Cai. Her dissertation examined how entrepreneurs’ skills shape opportunity evaluation and entrepreneurial action from a holistic perspective encompassing opportunity discovery, creation, and ambidexterity. During her doctoral studies, she was also a visiting researcher at the [University of North Carolina at Charlotte](https://www.charlotte.edu/) from November 2021 to June 2023, where she worked with [Dr. Franz W. Kellermanns](https://belkcollege.charlotte.edu/directory/franz-w-kellermanns).
+Before joining Auburn University, she earned a Ph.D. in Business Administration from [Jilin University](https://jilinuniversity.cn/about/), where she worked with Dr. Li Cai. Her dissertation examined how entrepreneurs’ skills shape opportunity evaluation and entrepreneurial action from a holistic perspective encompassing opportunity discovery, creation, and ambidexterity. During her doctoral studies, she was also a visiting researcher at the [University of North Carolina at Charlotte](https://www.charlotte.edu/) from November 2021 to June 2023, where she worked with [Dr. Franz W. Kellermanns](https://belkcollege.charlotte.edu/directory/franz-w-kellermanns). Her Curriculum Vitae can be found [here](yiru_cv.pdf).
 
 # 🔥 News
 - **[Jun 2026]** I was accepted to New Doctoral Student Consortium (NDSC) at the [Academy of Management Annual Meeting](https://www.aom.org/event/aom-2026-annual-meeting/). 
@@ -110,7 +110,7 @@ entrepreneurial ecosystem: case study of Alibaba[J].*
 - **2013** Undergraduate Merit Scholarship at Jilin University, Third prize awarded by Jilin University
 
 # 📖 Education
-- *2025.06 - current*, Doctor of Philosophy, Management, Auburn University, USA
+- *2025.06 - present*, Doctor of Philosophy, Management, Auburn University, USA
 - *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, Jilin University, China
 - *2021.09 - 2023.06*, Visting Scholar at University of North Carolina at Charlotte Charlotte, USA
 - *2016.09 - 2018.09*, Master, Business Administration, Jilin University, China
