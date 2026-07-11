@@ -16,7 +16,7 @@ Yiru Cai is a Ph.D. student in the [Department of Management and Entrepreneurshi
 Before joining Auburn University, she earned a Ph.D. in Business Administration from [Jilin University](https://jilinuniversity.cn/about/), where she worked with Dr. Li Cai. Her dissertation examined how entrepreneurs’ skills shape opportunity evaluation and entrepreneurial action from a holistic perspective encompassing opportunity discovery, creation, and ambidexterity. During her doctoral studies, she was also a visiting researcher at the [University of North Carolina at Charlotte](https://www.charlotte.edu/) from November 2021 to June 2023, where she worked with [Dr. Franz W. Kellermanns](https://belkcollege.charlotte.edu/directory/franz-w-kellermanns). Her Curriculum Vitae can be found [here](yiru_cv.pdf).
 
 # 🔥 News
-- **[Jun 2026]** I was accepted to New Doctoral Student Consortium (NDSC) at the [Academy of Management Annual Meeting](https://www.aom.org/event/aom-2026-annual-meeting/). 
+- **[Jun 2026]** I was accepted to New Doctoral Student Consortium (NDSC) at the [86th Academy of Management Annual Meeting](https://www.aom.org/event/aom-2026-annual-meeting/). 
 - **[May 2026]** I was awarded the Field‑Armenakis Fellowship by the Department of Management and Entrepreneurship, Auburn University.
 - **[May 2026]** Our paper on Making Promises: Entrepreneurs’ Commissive Speech Acts Influencing Startup Talent Enrollment is accepted to [Strategic Management Society 46th Annual Conference](https://www.strategicmanagement.net/conferences-events/annual-conference-2026/).
 - **[Feb 2025]** I got accepted by [Aubrun University](https://www.auburn.edu/)!
