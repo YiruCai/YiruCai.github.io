@@ -41,7 +41,6 @@ the Opportunity Holistic View[J].*
   published to the **Science & Technology Progress and Policy**, 2024
   <br>
 
-
 - *The Role of Entrepreneurs’ Skills on Opportunity Evaluation: Discovery, Creation, and Ambidexterity[C].*
   <br>
   **Yiru Cai**, Li Cai
@@ -118,9 +117,9 @@ entrepreneurial ecosystem: case study of Alibaba[J].*
 - **2013** Undergraduate Merit Scholarship at Jilin University, Third prize awarded by Jilin University
 
 # 📖 Education
-- *2025.06 - present*, Doctor of Philosophy, Management, Auburn University, USA
-- *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, Jilin University, China
-- *2021.09 - 2023.06*, Visting Scholar at University of North Carolina at Charlotte Charlotte, USA
+- *2025.06 - Present*, Ph.D., Management, Auburn University, USA
+- *2018.09 - 2024.09*, Ph.D., Business Administration, Jilin University, China
+- *2021.09 - 2023.06*, Visting Reseacher at University of North Carolina at Charlotte Charlotte, USA
 - *2016.09 - 2018.09*, Master, Business Administration, Jilin University, China
 - *2012.09 - 2016.07*, Bachelor, Archival Science, Jilin University, China
 
