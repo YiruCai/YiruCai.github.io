@@ -25,17 +25,14 @@ Before joining Auburn University, she earned a Ph.D. in Business Administration 
 of Management Proceedings 2024](https://journals.aom.org/toc/amproc/2024/1).
 
 # Publications
-
 - *Making Promises: Entrepreneurs’ Commissive Speech Acts Influencing
 Startup Talent Enrollment[c].*
- <br>
+  <br>
   **Yiru Cai**, Jose Daniel Gonzalez Angulo Aldavei, Haijing Yu. 
   <br>
   published to the **Strategic Management Society 46 th Annual Conference**, 2026
   <br>
-
-
-
+  
 - *Opportunity Evaluation, Regulatory Modes, and Entrepreneurial Action: An Empirical Study Based on
 the Opportunity Holistic View[J].*
   <br>
