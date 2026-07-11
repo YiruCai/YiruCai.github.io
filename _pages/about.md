@@ -19,7 +19,9 @@ I earned my Ph.D. from the School of Business and Management at Jilin University
 From November 2021 to June 2023, I had the privilege of studying at the [University of North Carolina at Charlotte](https://www.charlotte.edu/), under the guidance of Dr. [Franz W. Kellermanns](https://belkcollege.charlotte.edu/directory/franz-w-kellermanns/). During this period, I immersed myself in examining the holistic view of entrepreneurial opportunity, specifically focusing on how entrepreneurs' skills influence opportunity evaluation and subsequent entrepreneurial action across the distinct contexts of discovery, creation, and ambidexterity. My research also delved into the comparative differences between Chinese and U.S. entrepreneurs, further enriching my understanding of entrepreneurial dynamics in diverse cultural settings. This is my [CV](yiru_cv.pdf).
 
 # 🔥 News
-- **[Feb. 2025]** I got accepted by [Aubrun University](https://www.auburn.edu/)!
+- **[May 2026]** I was awarded the Field‑Armenakis Fellowship by the Department of Management and Entrepreneurship, Auburn University.
+- **[May 2026]** Our paper on Making Promises: Entrepreneurs’ Commissive Speech Acts Influencing Startup Talent Enrollment is accepted to [Strategic Management Society Annual Conference](https://www.strategicmanagement.net/conferences-events/annual-conference-2026/).
+- **[Feb 2025]** I got accepted by [Aubrun University](https://www.auburn.edu/)!
 - **[Feb 2025]** Our paper about Holistic View of Opportunity is accepted to [Science & Technology Progress and Policy](https://www.kjjb.org/EN/top_access).
 - **[Feb 2025]** Our paper about Opportunity Evaluation is accepted to [Academy
 of Management Proceedings 2024](https://journals.aom.org/toc/amproc/2024/1).
