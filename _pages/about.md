@@ -98,6 +98,7 @@ entrepreneurial ecosystem: case study of Alibaba[J].*
   
 
 # 🎖 Honors and Awards
+- **2026** Feild‑Armenakis Fellowship, awarded by Department of Management and Entrepreneurship, Auburn University
 - **2024** 14th Jilin Province Social Science Outstanding Achievement Award (Paper Category), Second prize awarded with Li Cai
 (Jilin Univeristy), Yuli Zhang (Naikai University), and Yaqian Yang (Jilin Univerisity), awarded by Jilin Provincial Government
 - **2023** Graduate Academic Performance Scholarship awarded by Jilin University
@@ -109,10 +110,11 @@ entrepreneurial ecosystem: case study of Alibaba[J].*
 - **2013** Undergraduate Merit Scholarship at Jilin University, Third prize awarded by Jilin University
 
 # 📖 Education
-- *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, ![Jilin](images/Jilin.png) Jilin University, China
-- *2021.09 - 2023.06*, Visting Scholar at ![uncc](images/uncc.png) University of North Carolina at Charlotte Charlotte, USA
-- *2016.09 - 2018.09*, Master, Business Administration, ![Jilin](images/Jilin.png) Jilin University, China
-- *2012.09 - 2016.07*, Bachelor, Archival Science, ![Jilin](images/Jilin.png) Jilin University, China
+- *2025.06 - current*, Doctor of Philosophy, Management, Auburn University, USA
+- *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, Jilin University, China
+- *2021.09 - 2023.06*, Visting Scholar at University of North Carolina at Charlotte Charlotte, USA
+- *2016.09 - 2018.09*, Master, Business Administration, Jilin University, China
+- *2012.09 - 2016.07*, Bachelor, Archival Science, Jilin University, China
 
 
 
